@@ -7,7 +7,7 @@ class FahrenheitSensor
     // Получить показания температуры в градусах Фаренгейта
     float getFahrenheitTemp() {
       float t = 32.0;
-      // ... какой то код
+      //...
       return t;
     }
 };
